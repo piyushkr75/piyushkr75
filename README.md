@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
+<h3 align="center">6th Semester | Information Science & Engineering | MERN Stack Developer | Exploring GenAI & LLMs</h3>
 
-<!--
-**piyushkr75/piyushkr75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am a 6th semester Information Science and Engineering student.
+- I am passionate about full-stack web development using the MERN stack.
+- I am currently learning how to build AI-powered applications using LLMs.
+- I am focused on improving my backend and problem-solving skills.
+
+---
+
+⚡ Technical Skills
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+
+
+### 🌐 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge)
+
+### 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
+
+### 🧠 GenAI / LLM Tools
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-orange?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
+
+---
+
+📊 GitHub Stats
+
+![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushkr75&show_icons=true&theme=dark)
+
+📌 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkr75&layout=compact&theme=dark)
+
+---
+
+🔗 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/piyush-kumar-41883a303/
+- Email: mailto:piyushkr865@gmail.com
