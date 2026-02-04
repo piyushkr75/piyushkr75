@@ -14,23 +14,22 @@
 
 ⚡ Technical Skills
 
-### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
 
 
-### 🌐 Frameworks & Libraries
+
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge)
 
-### 🗄 Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
 
-### 🧠 GenAI / LLM Tools
+
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-orange?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
