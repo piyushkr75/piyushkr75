@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
-<h3 align="center">6th Semester | Information Science & Engineering | MERN Stack Developer | Exploring GenAI & LLMs</h3>
+<h3 align="center">7th Semester | Information Science & Engineering | MERN Stack Developer | Exploring GenAI & LLMs</h3>
 
 ---
 
