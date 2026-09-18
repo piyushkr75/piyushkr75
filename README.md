@@ -5,7 +5,7 @@
 
 🚀 About Me
 
-- I am a 6th semester Information Science and Engineering student.
+- I am a 7th semester Information Science and Engineering student.
 - I am passionate about full-stack web development using the MERN stack.
 - I am currently learning how to build AI-powered applications using LLMs.
 - I am focused on improving my backend and problem-solving skills.
